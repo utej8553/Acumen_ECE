@@ -51,8 +51,8 @@ const Footer = () => {
             <div className='mb-5'>
               <dl className='text-white'>
                 <dt className='font-bold' key='contact'>Contact:-</dt>
-                <dd key='name1'>Sai Krishna: +91-7793932508 </dd>
-                <dd key='name2'>Sai Swetha: +91-9182596791 </dd>
+                <dd key='name1'>MD. Armaan Hussian: +91-9550591228 </dd>
+                {/*<dd key='name2'>Sai Swetha: +91-9182596791 </dd>*/}
               </dl>
 
             </div>
